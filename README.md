@@ -64,4 +64,4 @@ This project effectively demonstrates how Excel can be used not just for spreads
 
 • Make faster and better data-driven decisions
 
-![Dashboard Preview](https://your-image-url.com/dashboard.png)
+![Dashboard Preview]()
